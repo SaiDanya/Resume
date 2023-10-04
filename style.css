@@ -1,7 +1,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  padding:60px
+  padding:150px
 }
 
 
@@ -17,10 +17,10 @@ header {
 
 article {
   float: left;
-  padding: 60px;
+  padding: 50px;
   width: 90%;
   background-color: #f1f1f1;
-  height: 800px;
+  height: 950px;
 }
 .photo{
    height:250px;
@@ -70,7 +70,7 @@ tr:nth-child(even) {
 }
 
 h2{
-    color:CadetBlue;
+    color:Brown;
 }
 
 
