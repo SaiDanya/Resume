@@ -92,7 +92,9 @@ h2{
 
 
 .container{
-  display : flex;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
   align-items:center;
 } 
 .container h4{
